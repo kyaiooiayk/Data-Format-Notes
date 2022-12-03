@@ -7,9 +7,9 @@ It is a human-readable data-serialization language. It is commonly used for conf
 ***
 
 ## Available tutorials
-- [How to read csv files]()
-- [How to read jason files]()
-- [How to read xml files]()
+- [How to read csv files](https://github.com/kyaiooiayk/Data-Format-Notes/blob/main/tutorials/GitHub_MD_rendering/How%20to%20read%20csv%20files.ipynb)
+- [How to read jason files](https://github.com/kyaiooiayk/Data-Format-Notes/blob/main/tutorials/GitHub_MD_rendering/How%20to%20read%20jason%20files.ipynb)
+- [How to read xml files](https://github.com/kyaiooiayk/Data-Format-Notes/blob/main/tutorials/GitHub_MD_rendering/How%20to%20read%20xml%20files.ipynb)
 ***
 
 ## References
