@@ -10,6 +10,10 @@ JSON was originally invented for use by Javascript (JSON = JavaScript Object Not
 It is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. Both JSON and YAML are developed to provide a human-readable data interchange format. The YAML is realized as a superset of JSON format. It means that we can parse JSON using a YAML parser. Although the practical implementation of this theory is little tricky. Be aware thath YAML is an extremely bad choice for any configuration file because it's wildly unpredictable.
 ***
 
+## XML
+XML stands for Extensible Markup Language. It is similar to HTML in its appearance but, XML is used for data presentation, while HTML is used to define what data is being used. XML is exclusively designed to send and receive data back and forth between clients and servers.
+***
+
 ## Available tutorials
 - [How to read csv files](https://github.com/kyaiooiayk/Data-Format-Notes/blob/main/tutorials/GitHub_MD_rendering/How%20to%20read%20csv%20files.ipynb)
 - [How to read jason files](https://github.com/kyaiooiayk/Data-Format-Notes/blob/main/tutorials/GitHub_MD_rendering/How%20to%20read%20jason%20files.ipynb)
