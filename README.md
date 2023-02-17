@@ -2,7 +2,7 @@
 ***
 
 ## CSV
-**Row-based** file format storage.
+**Row-based** file format storage. A comma-separated values file is a delimited text file that uses a comma to separate values. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. 
 ***
 
 ## JSON
