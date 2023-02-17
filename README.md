@@ -30,6 +30,7 @@ XML stands for Extensible Markup Language. It is similar to HTML in its appearan
 ***
 
 ## References
+- [Notes on google slide](https://drive.google.com/drive/u/0/folders/1ozg7LuoK2Sn35W-CKMEy5RB3IICiX2Og)
 - [What is a YMAL file?](https://docs.fileformat.com/programming/yaml/)
 - [YAML is an extremely bad choice for any configuration file because it's wildly unpredictable](https://tomswirly.medium.com/yaml-is-an-extremely-bad-choice-for-any-configuration-file-because-its-wildly-unpredictable-d37969d20fef)
 - [What is parquet?](https://www.databricks.com/glossary/what-is-parquet)
