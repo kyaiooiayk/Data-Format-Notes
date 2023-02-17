@@ -13,9 +13,14 @@ JSON was originally invented for use by Javascript (JSON = JavaScript Object Not
 It is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. Both JSON and YAML are developed to provide a human-readable data interchange format. The YAML is realized as a superset of JSON format. It means that we can parse JSON using a YAML parser. Although the practical implementation of this theory is little tricky. Be aware thath YAML is an extremely bad choice for any configuration file because it's wildly unpredictable.
 ***
 
+## Parquet
+**Column-based** file format storage. Apache Parquet is an open source, column-oriented data file format designed for efficient data storage and retrieval. It provides efficient data compression and encoding schemes with enhanced performance to handle complex data in bulk. Apache Parquet is designed to be a common interchange format for both batch and interactive workloads. Good for storing big data of any kind (structured data tables, images, videos, documents). Saves on cloud storage space by using highly efficient column-wise compression, and flexible encoding schemes for columns with different data types. Increased data throughput and performance using techniques like data skipping, whereby queries that fetch specific column values need not read the entire row of data.
+***
+
 ## XML
 XML stands for Extensible Markup Language. It is similar to HTML in its appearance but, XML is used for data presentation, while HTML is used to define what data is being used. XML is exclusively designed to send and receive data back and forth between clients and servers.
 ***
+
 
 ## Available tutorials
 - [How to read csv files](https://github.com/kyaiooiayk/Data-Format-Notes/blob/main/tutorials/GitHub_MD_rendering/How%20to%20read%20csv%20files.ipynb)
@@ -26,4 +31,5 @@ XML stands for Extensible Markup Language. It is similar to HTML in its appearan
 ## References
 - [What is a YMAL file?](https://docs.fileformat.com/programming/yaml/)
 - [YAML is an extremely bad choice for any configuration file because it's wildly unpredictable](https://tomswirly.medium.com/yaml-is-an-extremely-bad-choice-for-any-configuration-file-because-its-wildly-unpredictable-d37969d20fef)
+- [What is parquet?](https://www.databricks.com/glossary/what-is-parquet)
 ***
