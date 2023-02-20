@@ -10,7 +10,7 @@ JSON was originally invented for use by Javascript (JSON = JavaScript Object Not
 ***
 
 ## YAML
-It is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. Both JSON and YAML are developed to provide a human-readable data interchange format. The YAML is realized as a superset of JSON format. It means that we can parse JSON using a YAML parser. Although the practical implementation of this theory is little tricky. Be aware thath YAML is an extremely bad choice for any configuration file because it's wildly unpredictable.
+YAML stands for Yet Another Markup Language and is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. Both JSON and YAML are developed to provide a human-readable data interchange format. The YAML is realised as a superset of JSON format. It means that we can parse JSON using a YAML parser. Although the practical implementation of this theory is little tricky. Be aware thath YAML is an extremely bad choice for any configuration file because it's wildly unpredictable.
 ***
 
 ## Parquet
