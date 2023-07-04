@@ -31,6 +31,7 @@ Hierarchical data format, developed initially at the National Center for Superco
 - [How to read xml files](https://github.com/kyaiooiayk/Data-Format-Notes/blob/main/tutorials/How%20to%20read%20xml%20files.ipynb)
 - [How to read parquet files](https://github.com/kyaiooiayk/Data-Format-Notes/blob/main/tutorials/How%20to%20read%20parquet%20files.ipynb)
 - [How to read yaml files](https://github.com/kyaiooiayk/Data-Format-Notes/blob/main/tutorials/How%20to%20read%20yaml%20files.ipynb)
+- [How to read HDF5 files](https://github.com/kyaiooiayk/Data-Format-Notes/blob/main/tutorials/How%20to%20read%20hdf5%20files.ipynb)
 ***
 
 ## References
